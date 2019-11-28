@@ -1,0 +1,11 @@
+C:\Users\pkagda\source\repos\DiffText\DiffText\obj\Debug\netcoreapp2.1\DiffText.csprojAssemblyReference.cache
+C:\Users\pkagda\source\repos\DiffText\DiffText\obj\Debug\netcoreapp2.1\DiffText.csproj.CoreCompileInputs.cache
+C:\Users\pkagda\source\repos\DiffText\DiffText\obj\Debug\netcoreapp2.1\DiffText.AssemblyInfoInputs.cache
+C:\Users\pkagda\source\repos\DiffText\DiffText\obj\Debug\netcoreapp2.1\DiffText.AssemblyInfo.cs
+C:\Users\pkagda\source\repos\DiffText\DiffText\bin\Debug\netcoreapp2.1\DiffText.deps.json
+C:\Users\pkagda\source\repos\DiffText\DiffText\bin\Debug\netcoreapp2.1\DiffText.runtimeconfig.json
+C:\Users\pkagda\source\repos\DiffText\DiffText\bin\Debug\netcoreapp2.1\DiffText.runtimeconfig.dev.json
+C:\Users\pkagda\source\repos\DiffText\DiffText\bin\Debug\netcoreapp2.1\DiffText.dll
+C:\Users\pkagda\source\repos\DiffText\DiffText\bin\Debug\netcoreapp2.1\DiffText.pdb
+C:\Users\pkagda\source\repos\DiffText\DiffText\obj\Debug\netcoreapp2.1\DiffText.dll
+C:\Users\pkagda\source\repos\DiffText\DiffText\obj\Debug\netcoreapp2.1\DiffText.pdb
