@@ -8,6 +8,7 @@ using Microsoft.Azure.WebJobs.Host;
 using System;
 using DiffMatchPatch;
 using System.Collections.Generic;
+using System.Text.RegularExpressions;
 
 namespace DiffTextFunctionApp
 {
@@ -24,6 +25,9 @@ namespace DiffTextFunctionApp
 
             // Execute one reverse diff as a warmup.
             var result = dmp.diff_prettyHtml(dmp.diff_main(request.SourceText, request.DestinationText));
+            result =result.Replace("ins","span") .Replace("del", "span") .Replace("=\"background:#ffe6e6;\"", "='color: Blue;'").Replace("=\"background:#e6ffe6;\"", "='color: Red;'");
+
+            //result = result.Replace("del", "span").Replace("background:#ffe6e6;", "background:#ffe6e6;text-decoration:line-through");
             GC.Collect();
             GC.WaitForPendingFinalizers();
 
